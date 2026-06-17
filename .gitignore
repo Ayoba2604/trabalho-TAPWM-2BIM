@@ -1,0 +1,5 @@
+/storage/*.sqlite
+/storage/*.sqlite-journal
+/docs/docx_package/
+/docs/*.docx.*
+/*.docx.*
